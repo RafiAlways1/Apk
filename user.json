@@ -12,5 +12,12 @@
     "role": "user",
     "expiresAt": 1762658635788,
     "createdAt": 1762658635788
+  },
+  {
+    "username": "Sharxx",
+    "password": "Sharxx",
+    "role": "user",
+    "expiresAt": 1788580462343,
+    "createdAt": 1762660462343
   }
 ]
