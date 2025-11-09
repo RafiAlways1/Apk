@@ -26,5 +26,12 @@
     "role": "user",
     "expiresAt": 1788580888674,
     "createdAt": 1762660888674
+  },
+  {
+    "username": "kaffz",
+    "password": "ffepep",
+    "role": "user",
+    "expiresAt": 1788581280378,
+    "createdAt": 1762661280378
   }
 ]
